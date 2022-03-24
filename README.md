@@ -11,12 +11,16 @@ pip install foobar
 ## Step 1
 <p>Go to here: https://developer.nytimes.com</p>
 * 1.login
+
 * 2.click the Apps below ur acc
   ![image](https://user-images.githubusercontent.com/72342994/159895822-70ed068d-52db-4fab-b8c1-f9420ef50f9e.png)
+  
 * 3.add new App
   ![image](https://user-images.githubusercontent.com/72342994/159895947-ea9ec71f-c184-42f3-8704-cdce560effb3.png)
+  
 * 4.copy the api key
   ![image](https://user-images.githubusercontent.com/72342994/159896088-adee3555-b814-441a-a7ea-9853b3eae465.png)
+  
 * 5.Go API -> choose top stories API
   ![image](https://user-images.githubusercontent.com/72342994/159896267-95bce944-def4-46f2-b5a4-23e6eefe5a85.png)
 
@@ -36,11 +40,13 @@ com.example.mytest
   ->Result
 ```
 - rmb import plugin
-  ![image](https://user-images.githubusercontent.com/72342994/159897512-e80fb659-9095-4f4b-b0f9-bc1114f79d2a.png)
+![image](https://user-images.githubusercontent.com/72342994/159897512-e80fb659-9095-4f4b-b0f9-bc1114f79d2a.png)
+
 - open the "json to Data"
-  ![image](https://user-images.githubusercontent.com/72342994/159897585-10a40f23-1db3-4d69-ba38-c9581e6aba9a.png)
+![image](https://user-images.githubusercontent.com/72342994/159897585-10a40f23-1db3-4d69-ba38-c9581e6aba9a.png)
+
 - put json inside will direct generate the dao class file
-  ![image](https://user-images.githubusercontent.com/72342994/159897614-22ef8117-52e7-416f-bbcb-927112c20e26.png)
+![image](https://user-images.githubusercontent.com/72342994/159897614-22ef8117-52e7-416f-bbcb-927112c20e26.png)
 
 
 ## Step3
@@ -112,6 +118,7 @@ create Interface to call get method
 # Production
 - all result
   ![image](https://user-images.githubusercontent.com/72342994/159898016-2f07abd9-3708-4982-98cb-c60eca6e0299.png)
+  
 - search result based on the query
  ![image](https://user-images.githubusercontent.com/72342994/159898124-bf48e4f2-5cda-429e-bfae-94e22ffd4a14.png)
 
